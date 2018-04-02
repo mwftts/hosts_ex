@@ -1,3 +1,36 @@
+172.217.25.163
+sin01s16-in-f3.1e100.net
+*.1e100.net
+#66.71.250.27
+#greasyfork.org
+23.32.53.101
+*.static.akamaitechnologies.com
+
+#91.211.74.59
+#Marktplaats B.V. 
+#inetnum:         91.211.72.0 - 91.211.75.255
+ecg-api.gumtree.com.au
+91.211.72.*
+91.211.73.*
+91.211.74.*
+91.211.75.*
+
+app.adjust.com
+173.208.60.*
+173.208.61.*
+178.162.200.*
+178.162.216.*
+178.162.219.*
+185.151.204.*
+185.151.205.*
+185.151.206.*
+185.151.207.*
+#adjust subnets 173.208.60.0/23, 178.162.200.128/26, 178.162.216.64/26, 178.162.216.128/26, 178.162.216.192/26, 178.162.219.0/24, and 185.151.204.0/22
+
+*.csctczs.com
+ebay.doubleclick.net
+google-analytics.l.google.com
+sin01s16-in-f3.1e100.net
 graph.facebook.com
 *.xx.fbcdn.net
 ak.facebook.com
