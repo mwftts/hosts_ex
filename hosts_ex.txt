@@ -1,6 +1,7 @@
-172.217.25.163
-sin01s16-in-f3.1e100.net
-*.1e100.net
+#172.217.25.163
+#sin01s16-in-f3.1e100.net
+#1e100.net is a Google-owned domain name used to identify the servers in Google's network.
+
 #66.71.250.27
 #greasyfork.org
 23.32.53.101
@@ -10,10 +11,10 @@ sin01s16-in-f3.1e100.net
 #Marktplaats B.V. 
 #inetnum:         91.211.72.0 - 91.211.75.255
 #ecg-api.gumtree.com.au
-#91.211.72.*
-#91.211.73.*
-#91.211.74.*
-#91.211.75.*
+91.211.72.*
+91.211.73.*
+91.211.74.*
+91.211.75.*
 
 app.adjust.com
 173.208.60.*
