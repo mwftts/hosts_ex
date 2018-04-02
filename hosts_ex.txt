@@ -30,8 +30,7 @@ app.adjust.com
 
 *.csctczs.com
 ebay.doubleclick.net
-google-analytics.l.google.com
-sin01s16-in-f3.1e100.net
+#google-analytics.l.google.com
 graph.facebook.com
 *.xx.fbcdn.net
 ak.facebook.com
