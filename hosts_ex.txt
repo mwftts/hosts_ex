@@ -30,7 +30,19 @@ app.adjust.com
 
 *.csctczs.com
 ebay.doubleclick.net
-#google-analytics.l.google.com
+
+googleadservices.com
+googlesyndication.com
+analytics.google.com
+googletagservices.com
+tagmanager.google.com
+adwords.google.com
+adssettings.google.com
+adservice.google.com.au
+adservices.google.com
+googlesyndication.com
+mobileads.google.com
+
 graph.facebook.com
 *.xx.fbcdn.net
 ak.facebook.com
