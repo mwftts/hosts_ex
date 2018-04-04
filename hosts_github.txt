@@ -1,6 +1,3 @@
-40C8AF7431A6913909AB85451DD8BFEC572753E3BE2DCDA5610F5DA280D7DD5BD5B605D9EC00EF1934CBCB5FB5AC97D5D69723F696144F4452321FC44092ABCA
-
-
 https://hosts-file.net/ad_servers.txt
 
 https://adaway.org/hosts.txt
@@ -16,3 +13,5 @@ http://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
 
 https://raw.githubusercontent.com/herexf/hosts_ex/master/hosts_ex.txt
+
+https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/wildcard_standard_hosts.txt
