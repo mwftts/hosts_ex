@@ -3,15 +3,21 @@ https://hosts-file.net/ad_servers.txt
 https://adaway.org/hosts.txt
 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts
 
 http://winhelp2002.mvps.org/hosts.txt
 
 http://someonewhocares.org/hosts/zero/hosts
+http://someonewhocares.org/hosts/hosts/
 
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
 
 https://raw.githubusercontent.com/herexf/hosts_ex/master/hosts_ex.txt
 
+https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
+
 https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/wildcard_standard_hosts.txt
+https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/resources/manual_additions.txt
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
