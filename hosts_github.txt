@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/resources/manua
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+
+https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt
+
