@@ -22,5 +22,14 @@ https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/resources/manua
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 
-https://raw.githubusercontent.com/arthurgeron/blockYTAds/master/hosts.txt
+https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile/domains.txt
+https://filters.adtidy.org/extension/chromium/filters/11.txt
+https://cdn.raletag.gq/rueasyhosts.txt
 
+https://adaway.org/hosts.txt
+https://gitlab.com/fusionjack/host/raw/master/hosts.txt
+
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
