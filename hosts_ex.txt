@@ -1,3 +1,12 @@
+#04/07/2018
+graph.facebook.com
+a.fiksu.com
+sdk.fiksu.com
+decide.mixpanel.com
+cdn.segment.com
+api.segment.io
+mobile-service.segment.com
+
 #21/06/2018
 bkscqpflg.com
 bmmqsdyud.com
